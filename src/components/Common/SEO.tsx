@@ -56,6 +56,12 @@ export const SEO: FunctionComponent<SEOProps> = ({
       <meta name="twitter:url" content={seo.url} />
       <meta name="twitter:creator" content={seo.author} />
 
+      {/* Google Search Console */}
+      <meta
+        name="google-site-verification"
+        content="oja2ncMcMQUc44cwkK4ToMOyttxXU8LNCSMbjQJX2QI"
+      />
+
       {children}
     </>
   )

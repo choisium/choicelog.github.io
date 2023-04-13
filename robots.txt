@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://choisium.github.io/sitemap-index.xml
+Host: https://choisium.github.io

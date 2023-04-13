@@ -61,6 +61,11 @@ export const SEO: FunctionComponent<SEOProps> = ({
         name="google-site-verification"
         content="oja2ncMcMQUc44cwkK4ToMOyttxXU8LNCSMbjQJX2QI"
       />
+      {/* Naver Search Advisor */}
+      <meta
+        name="naver-site-verification"
+        content="0407ddd244a16c2b2bcac064bfeb4c08786cd1a7"
+      />
 
       {children}
     </>

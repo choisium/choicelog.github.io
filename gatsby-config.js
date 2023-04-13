@@ -12,7 +12,7 @@ module.exports = {
     title: `ChoiceLog`,
     description: `주니어 개발자로서 공부한 내용을 기록하는 블로그입니다.`,
     author: `Choisium`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://choisium.github.io/`,
   },
   plugins: [
     {
@@ -93,7 +93,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://my-website.com/',
+        siteUrl: 'https://choisium.github.io/',
         stripQueryString: true,
       },
     },
